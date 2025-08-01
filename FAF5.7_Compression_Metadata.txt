@@ -1,0 +1,40 @@
+FAF5.7 Dataset Compression Metadata
+========================================
+
+COMPRESSION SUMMARY:
+  original_records: 1196238
+  sample_records: 150657
+  compression_ratio: 0.12594232920204843
+  sampling_date: 2025-07-31T17:12:15.817629
+  original_columns: 56
+  sample_columns: 57
+
+ACTUAL FILE SIZE: 51.7 MB
+
+QUALITY VALIDATION:
+  dms_origst_coverage: 100.0%
+  dms_destst_coverage: 100.0%
+  sctg2_coverage: 100.0%
+  dms_mode_coverage: 100.0%
+  dist_band_coverage: 100.0%
+  trade_type_coverage: 100.0%
+  tons_2023_percentile_preservation: 34.8%
+  value_2023_percentile_preservation: 44.7%
+  tmiles_2023_percentile_preservation: 34.1%
+
+SAMPLING STRATEGY:
+  1. Stratified sampling by geographic regions
+  2. Stratified sampling by commodity types
+  3. Stratified sampling by transportation modes
+  4. High-value/high-volume corridor preservation
+  5. Extreme values and outlier inclusion
+  6. Temporal diversity (growth patterns)
+  7. Medium-value corridors for comprehensive coverage
+  8. Origin-Destination corridor diversity
+  9. Random sampling for general representation
+
+USAGE NOTES:
+  - This compressed dataset preserves key patterns and distributions
+  - Suitable for exploratory analysis, prototyping, and development
+  - For production analysis, consider using the full dataset
+  - Sample maintains geographic, commodity, and modal diversity
