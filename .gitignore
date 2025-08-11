@@ -23,3 +23,4 @@ FAF5.7_State_Compressed.csv
 FAF5.7_State.csv
 FAF5.7_State_Compressed.csv
 
+\n# Ignore Office lock files\n~$*.xlsx\n~$*\n*.tmp\n
