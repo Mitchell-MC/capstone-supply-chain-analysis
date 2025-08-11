@@ -1,0 +1,240 @@
+Country,Import_Risk_Score,Export_Risk_Score,Import_Percentage_of_Total,Export_Percentage_of_Total
+Afghanistan,9.6,9.85,0.00%,0.00%
+Albania,6.4,6.7,0.00%,0.00%
+Algeria,7.1,7.45,0.00%,0.00%
+American Samoa,5.5,6,0.00%,0.00%
+Andorra,4.1,4.3,0.00%,0.00%
+Angola,7.9,8.2,0.00%,0.00%
+Anguilla,5.8,6.1,0.00%,0.00%
+Antigua and Barbuda,5.7,6,0.00%,0.00%
+Argentina,7.5,8.1,0.13%,0.22%
+Armenia,6.8,7.1,0.00%,0.00%
+Aruba,5.1,5.4,0.00%,0.00%
+Australia,2.8,2.9,0.59%,1.70%
+Austria,3.5,3.6,0.64%,0.46%
+Azerbaijan,7,7.3,0.00%,0.00%
+The Bahamas,5.2,5.5,0.09%,0.22%
+Bahrain,5.9,6.1,0.04%,0.07%
+Bangladesh,6.9,7.3,0.31%,0.12%
+Barbados,5.6,5.9,0.00%,0.00%
+Belarus,8.8,9.1,0.00%,0.00%
+Belgium,3.4,3.5,1.20%,1.91%
+Belize,6.5,6.8,0.01%,0.02%
+Benin,7.8,8.1,0.00%,0.00%
+Bermuda,4.8,4.9,0.00%,0.05%
+Bhutan,6.7,7,0.00%,0.00%
+Bolivia,7.6,7.9,0.03%,0.03%
+Bosnia and Herzegovina,6.3,6.6,0.00%,0.00%
+Botswana,6.1,6.4,0.00%,0.00%
+Brazil,6.45,7.1,1.25%,2.22%
+British Virgin Islands,5.9,6.2,0.00%,0.00%
+Brunei,5.3,5.6,0.00%,0.00%
+Bulgaria,5.4,5.7,0.02%,0.03%
+Burkina Faso,9.2,9.5,0.00%,0.00%
+Burundi,9.3,9.6,0.00%,0.00%
+Cabo Verde,6.6,6.9,0.00%,0.00%
+Cambodia,6.8,7.2,0.40%,0.03%
+Cameroon,8,8.3,0.00%,0.00%
+Canada,2.2,2.35,13.15%,16.31%
+Cayman Islands,4.9,5.2,0.02%,0.03%
+Central African Republic,9.5,9.8,0.00%,0.00%
+Chad,9.1,9.4,0.00%,0.00%
+Chile,5,5.3,0.55%,0.98%
+China,7.75,8.35,13.35%,6.76%
+Cocos (Keeling) Islands,6,6.3,0.00%,0.00%
+Colombia,6.2,6.5,0.54%,0.88%
+Comoros,8.1,8.4,0.00%,0.00%
+Cook Islands,5.6,5.9,0.00%,0.00%
+Democratic Republic of the Congo,8.9,9.2,0.00%,0.00%
+Republic of the Congo,8.2,8.5,0.00%,0.00%
+Costa Rica,5.25,5.55,0.58%,0.44%
+Cï¿½ï¿½te dï¿½ï¿,7.4,7.7,0.04%,0.06%
+Croatia,5.1,5.4,0.02%,0.03%
+Cuba,9.4,9.7,0.00%,0.00%
+Curaï¿½ï,5.4,5.7,0.00%,0.00%
+Cyprus,4.7,5,0.00%,0.02%
+Czech Republic,4.6,4.9,0.12%,0.15%
+Denmark,3.1,3.2,0.25%,0.37%
+Djibouti,8.3,8.6,0.00%,0.00%
+Dominica,6,6.3,0.00%,0.00%
+Dominican Republic,5.8,6.1,0.44%,0.67%
+East Timor,8.4,8.7,0.00%,0.00%
+Ecuador,6.9,7.2,0.37%,0.26%
+Egypt,7.2,7.5,0.26%,0.46%
+El Salvador,6.8,7.1,0.11%,0.22%
+Equatorial Guinea,8.5,8.8,0.00%,0.00%
+Eritrea,9.6,9.9,0.00%,0.00%
+Estonia,4.4,4.7,0.01%,0.02%
+Eswatini,7.3,7.6,0.00%,0.00%
+Ethiopia,8.6,8.9,0.00%,0.00%
+Falkland Islands,5.7,6,0.00%,0.00%
+Faroe Islands,4.2,4.5,0.00%,0.00%
+Fiji,6.2,6.5,0.00%,0.00%
+Finland,3.2,3.3,0.24%,0.21%
+France,3.95,4.1,2.05%,2.27%
+French Guiana,6,6.3,0.00%,0.00%
+French Polynesia,5.5,5.8,0.00%,0.00%
+Gabon,7.7,8,0.02%,0.01%
+The Gambia,8.1,8.4,0.00%,0.00%
+Gaza Strip,10,10,0.00%,0.00%
+Georgia,6.7,7,0.00%,0.00%
+Germany,3.8,3.95,4.93%,3.46%
+Ghana,7,7.3,0.09%,0.07%
+Gibraltar,4.5,4.8,0.00%,0.00%
+Greece,5.3,5.6,0.10%,0.17%
+Greenland,4.3,4.6,0.00%,0.00%
+Grenada,5.9,6.2,0.00%,0.00%
+Guadeloupe,5.6,5.9,0.00%,0.00%
+Guam,5.4,5.7,0.00%,0.00%
+Guatemala,6.7,7,0.46%,0.74%
+Guernsey,3.9,4.2,0.00%,0.00%
+Guinea,8.7,9,0.00%,0.00%
+Guinea-Bissau,9,9.3,0.00%,0.00%
+Guyana,7.4,7.7,0.13%,0.23%
+Haiti,9.4,9.7,0.04%,0.06%
+Honduras,6.9,7.2,0.27%,0.45%
+Hong Kong,4.2,4.5,0.91%,1.45%
+Hungary,5,5.3,0.19%,0.15%
+Iceland,3.3,3.4,0.02%,0.02%
+India,6.05,6.75,2.48%,2.22%
+Indonesia,6.5,6.8,0.84%,0.72%
+Iran,9.8,9.95,0.00%,0.00%
+Iraq,9.2,9.5,0.02%,0.12%
+Ireland,3.05,3.4,2.82%,0.88%
+Isle of Man,3.8,4.1,0.00%,0.00%
+Israel,4.9,5.2,0.61%,1.03%
+Italy,4.55,4.85,1.86%,1.29%
+Jamaica,6.1,6.4,0.08%,0.13%
+Japan,4.3,4.6,4.64%,3.87%
+Jersey,3.9,4.2,0.00%,0.00%
+Jordan,6.4,6.7,0.09%,0.09%
+Kazakhstan,6.6,6.9,0.02%,0.06%
+Kenya,7.1,7.4,0.02%,0.03%
+Kiribati,7,7.3,0.00%,0.00%
+North Korea,10,10,0.00%,0.00%
+South Korea,5.05,5.3,3.55%,3.82%
+Kosovo,6.5,6.8,0.00%,0.00%
+Kuwait,5.8,6.1,0.07%,0.44%
+Kyrgyzstan,7.2,7.5,0.00%,0.00%
+Laos,7.9,8.2,0.00%,0.00%
+Latvia,4.8,5.1,0.01%,0.02%
+Lebanon,8.8,9.1,0.00%,0.00%
+Lesotho,7.5,7.8,0.00%,0.00%
+Liberia,8.4,8.7,0.00%,0.00%
+Libya,9.3,9.6,0.00%,0.00%
+Liechtenstein,3,3.1,0.00%,0.00%
+Lithuania,4.7,5,0.01%,0.03%
+Luxembourg,3.1,3.2,0.01%,0.05%
+Macau,5,5.3,0.03%,0.01%
+Madagascar,7.6,7.9,0.03%,0.01%
+Malawi,7.9,8.2,0.00%,0.00%
+Malaysia,5.65,5.9,1.59%,1.03%
+Maldives,6.3,6.6,0.00%,0.00%
+Mali,9.1,9.4,0.00%,0.00%
+Malta,4.5,4.8,0.01%,0.02%
+Marshall Islands,6.4,6.7,0.00%,0.00%
+Martinique,5.7,6,0.00%,0.00%
+Mauritania,8,8.3,0.00%,0.00%
+Mauritius,5.5,5.8,0.01%,0.01%
+Mayotte,6.1,6.4,0.00%,0.00%
+Mexico,4.65,5.15,14.86%,16.05%
+Micronesia,6.5,6.8,0.00%,0.00%
+Moldova,6.4,6.7,0.00%,0.00%
+Monaco,4,4.2,0.00%,0.00%
+Mongolia,6.9,7.2,0.00%,0.00%
+Montenegro,6.2,6.5,0.00%,0.00%
+Montserrat,6.1,6.4,0.00%,0.00%
+Morocco,6.3,6.6,0.12%,0.17%
+Mozambique,8.2,8.5,0.00%,0.00%
+Myanmar,9,9.3,0.04%,0.02%
+Namibia,6.7,7,0.00%,0.00%
+Nauru,7.2,7.5,0.00%,0.00%
+Nepal,7.3,7.6,0.01%,0.01%
+Netherlands,3.7,3.65,1.94%,3.41%
+Netherlands Antilles,5.8,6.1,0.00%,0.00%
+New Caledonia,5.3,5.6,0.00%,0.00%
+New Zealand,3.4,3.5,0.22%,0.37%
+Nicaragua,7.8,8.1,0.18%,0.09%
+Niger,9.3,9.6,0.00%,0.00%
+Nigeria,8.3,8.6,0.21%,0.29%
+Niue,6.2,6.5,0.00%,0.00%
+North Macedonia,6.1,6.4,0.00%,0.00%
+Northern Mariana Islands,5.8,6.1,0.00%,0.00%
+Norway,3,3.1,0.20%,0.26%
+Oman,5.7,6,0.06%,0.11%
+Pakistan,7.7,8,0.21%,0.16%
+Palau,6.3,6.6,0.00%,0.00%
+Panama,5.6,5.9,0.18%,0.62%
+Papua New Guinea,7.4,7.7,0.00%,0.00%
+Paraguay,7.1,7.4,0.06%,0.11%
+Peru,6,6.3,0.39%,0.37%
+Philippines,6.4,6.7,0.42%,0.42%
+Pitcairn Island,6.8,7.1,0.00%,0.00%
+Poland,4.9,5.2,0.34%,0.47%
+Portugal,4.6,4.9,0.12%,0.15%
+Puerto Rico,5.5,5.8,0.00%,0.00%
+Qatar,5.4,5.7,0.05%,0.34%
+Rï¿½ï¿½u,5.9,6.2,0.00%,0.00%
+Romania,5.2,5.5,0.04%,0.06%
+Russia,9,9.3,0.06%,0.29%
+Rwanda,7.8,8.1,0.00%,0.00%
+Saint Helena,6.3,6.6,0.00%,0.00%
+Saint Kitts and Nevis,5.8,6.1,0.00%,0.00%
+Saint Lucia,5.9,6.2,0.00%,0.00%
+Saint-Pierre and Miquelon,4.8,5.1,0.00%,0.00%
+Saint Vincent and the Grenadines,6,6.3,0.00%,0.00%
+Samoa,6.6,6.9,0.00%,0.00%
+San Marino,4.2,4.5,0.00%,0.00%
+Sao Tome and Principe,7.9,8.2,0.00%,0.00%
+Saudi Arabia,6,6.3,0.47%,0.70%
+Senegal,7.3,7.6,0.00%,0.03%
+Serbia,6,6.3,0.01%,0.02%
+Seychelles,5.7,6,0.00%,0.00%
+Sierra Leone,8.8,9.1,0.00%,0.00%
+Singapore,3.6,3.7,1.28%,2.79%
+Sint Maarten,5.9,6.2,0.00%,0.00%
+Slovakia,4.8,5.1,0.06%,0.06%
+Slovenia,4.6,4.9,0.02%,0.03%
+Solomon Islands,7.1,7.4,0.00%,0.00%
+Somalia,9.9,9.95,0.00%,0.00%
+South Africa,6.6,6.9,0.45%,0.30%
+Spain,4.4,4.7,0.59%,0.88%
+Sri Lanka,7.4,7.7,0.10%,0.07%
+South Sudan,9.7,9.9,0.00%,0.00%
+Sudan,9.5,9.8,0.00%,0.00%
+Suriname,7,7.3,0.00%,0.00%
+Sweden,3.3,3.4,0.29%,0.42%
+Switzerland,3.35,3.45,2.13%,1.34%
+Syria,9.9,9.95,0.00%,0.00%
+Taiwan,5.2,5.45,2.55%,1.96%
+Tajikistan,7.4,7.7,0.00%,0.00%
+Tanzania,8,8.3,0.00%,0.00%
+Thailand,5.8,6.15,1.50%,0.93%
+Togo,8.1,8.4,0.00%,0.00%
+Tokelau,7,7.3,0.00%,0.00%
+Tonga,6.8,7.1,0.00%,0.00%
+Trinidad and Tobago,6,6.3,0.08%,0.26%
+Tunisia,6.7,7,0.02%,0.03%
+Turkey,6.3,6.6,1.04%,0.83%
+Turkmenistan,7.6,7.9,0.00%,0.00%
+Turks and Caicos Islands,5.7,6,0.00%,0.00%
+Tuvalu,7.3,7.6,0.00%,0.00%
+Uganda,8.2,8.5,0.00%,0.02%
+Ukraine,8.5,8.8,0.05%,0.08%
+United Arab Emirates,5.6,5.9,0.75%,1.29%
+United Kingdom,3.6,3.75,2.42%,3.56%
+United States,2,2,0.00%,0.00%
+United States Virgin Islands,5.6,5.9,0.00%,0.00%
+Uruguay,6.2,6.5,0.09%,0.15%
+Uzbekistan,7.5,7.8,0.00%,0.00%
+Vanuatu,6.9,7.2,0.00%,0.00%
+Vatican City,3.5,3.8,0.00%,0.00%
+Venezuela,9.1,9.4,0.08%,0.11%
+Vietnam,6.15,6.6,3.57%,0.52%
+Wallis and Futuna,6.2,6.5,0.00%,0.00%
+West Bank,8.5,8.8,0.00%,0.00%
+Western Sahara,8.8,9.1,0.00%,0.00%
+Yemen,9.7,9.9,0.00%,0.00%
+Zambia,8,8.3,0.00%,0.00%
+Zimbabwe,8.4,8.7,0.00%,0.01%
+,,,99.99%,100.00%

@@ -1,70 +1,18 @@
-# Virtual Environment
-faf5_env/
-venv/
-env/
-.venv/
+# Outputs and artifacts
+outputs/
+*.parquet
+*.pkl
+*.pickle
+
+# Jupyter
+.ipynb_checkpoints/
 
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+*.pyc
+*.pyo
+*.pyd
 
 # OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Data files (if they're large)
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.h5
-*.hdf5
-
-# Logs
-*.log
-logs/
-
-# Temporary files
-*.tmp
-*.temp 
+Thumbs.db 

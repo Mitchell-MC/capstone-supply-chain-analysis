@@ -6,7 +6,7 @@ This document provides a comprehensive description of all variables in the FAF5.
 
 - **Total Records**: 56
 - **Total Variables**: 56
-- **Generated**: 2025-08-02 19:42:46
+- **Generated**: 2025-08-10 10:37:26
 
 ## Variable Descriptions
 
